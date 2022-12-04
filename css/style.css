@@ -15,3 +15,24 @@
 	font-family: light;
 	src: url(../fonts/Fraunces/static/Fraunces_72pt_SuperSoft/Fraunces_72pt_SuperSoft-Light.ttf);
 }
+
+body {
+	height: 100vh;
+	background-color: var(--Cream);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+main {
+	max-width: 700px;
+	width: 100%;
+	height: fit-content;
+	background-color: white;
+	display: flex;
+}
+
+.main-img {
+	width: 350px;
+	height: 400px;
+}
