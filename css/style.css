@@ -1,0 +1,17 @@
+:root {
+	--Dark-cyan: hsl(158, 36%, 37%);
+	--Cream: hsl(30, 38%, 92%);
+	--Very-dark-blue: hsl(212, 21%, 14%);
+	--Dark-grayish-blue: hsl(228, 12%, 48%);
+	--White: hsl(0, 0%, 100%);
+}
+
+@font-face {
+	font-family: bold;
+	src: url(../fonts/Fraunces/static/Fraunces_72pt_SuperSoft/Fraunces_72pt_SuperSoft-Bold.ttf);
+}
+
+@font-face {
+	font-family: light;
+	src: url(../fonts/Fraunces/static/Fraunces_72pt_SuperSoft/Fraunces_72pt_SuperSoft-Light.ttf);
+}
